@@ -1,0 +1,4 @@
+Just a sample here 
+generate your own using browser extensions like 
+https://chromewebstore.google.com/detail/get-cookiestxt-locally/cclelndahbckbenkjhflpdbgdldlbecc
+and place it on your own server.
